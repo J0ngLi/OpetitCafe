@@ -1,0 +1,37 @@
+# dependencies
+node_modules
+
+# build outputs
+.next
+out
+dist
+build
+coverage
+.vercel
+
+# env files
+.env
+.env*.local
+.env.production
+.env.development
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# python (leftovers from previous experiments)
+__pycache__/
+*.py[cod]
+pythonenv*/
+venv/
+.venv/
+
+# IDEs
+.vscode
+.idea

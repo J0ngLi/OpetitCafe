@@ -1,0 +1,130 @@
+[
+  {
+    "id": "1",
+    "category": "breakfast",
+    "image": "https://images.unsplash.com/photo-1525351484163-7529414344d8?auto=format&fit=crop&w=900&q=80",
+    "price": "3 800 KZT",
+    "name": {
+      "ru": "Французский завтрак",
+      "en": "French Breakfast Plate",
+      "kk": "Француз таңғы асы"
+    },
+    "description": {
+      "ru": "Круассан, яйца пашот, свежий салат и сливочный соус.",
+      "en": "Buttery croissant, poached eggs, crisp greens, and creamy sauce.",
+      "kk": "Майлы круассан, пашот жұмыртқа, көк салат және кремді соус."
+    }
+  },
+  {
+    "id": "2",
+    "category": "pasta",
+    "image": "https://images.unsplash.com/photo-1621996346565-e3dbc646d9a9?auto=format&fit=crop&w=900&q=80",
+    "price": "4 900 KZT",
+    "name": {
+      "ru": "Паста Трюфельная",
+      "en": "Truffle Cream Pasta",
+      "kk": "Трюфельді паста"
+    },
+    "description": {
+      "ru": "Домашняя паста в сливочно-трюфельном соусе с пармезаном.",
+      "en": "Fresh pasta in truffle cream sauce finished with parmesan.",
+      "kk": "Үй пастасы трюфельді кілегей соусымен және пармезанмен."
+    }
+  },
+  {
+    "id": "3",
+    "category": "desserts",
+    "image": "https://images.unsplash.com/photo-1551024601-bec78aea704b?auto=format&fit=crop&w=900&q=80",
+    "price": "2 700 KZT",
+    "name": {
+      "ru": "Кремовый тарт",
+      "en": "Cream Tart",
+      "kk": "Крем тарт"
+    },
+    "description": {
+      "ru": "Нежный десерт с ягодами и ванильным кремом.",
+      "en": "Delicate berry dessert layered with vanilla cream.",
+      "kk": "Жидек пен ваниль кремі қосылған нәзік десерт."
+    }
+  },
+  {
+    "id": "4",
+    "category": "drinks",
+    "image": "https://images.unsplash.com/photo-1497636577773-f1231844b336?auto=format&fit=crop&w=900&q=80",
+    "price": "1 900 KZT",
+    "name": {
+      "ru": "Капучино Signature",
+      "en": "Signature Cappuccino",
+      "kk": "Signature капучино"
+    },
+    "description": {
+      "ru": "Ароматный кофе с шелковой молочной пенкой.",
+      "en": "Aromatic espresso crowned with silky milk foam.",
+      "kk": "Хош иісті эспрессо және жібектей сүт көбігі."
+    }
+  },
+  {
+    "id": "5",
+    "category": "breakfast",
+    "image": "https://images.unsplash.com/photo-1484723091739-30a097e8f929?auto=format&fit=crop&w=900&q=80",
+    "price": "3 500 KZT",
+    "name": {
+      "ru": "Сырники с ягодами",
+      "en": "Syrniki with Berries",
+      "kk": "Жидек қосылған сырник"
+    },
+    "description": {
+      "ru": "Нежные сырники с ягодным соусом и сметаной.",
+      "en": "Soft cottage pancakes with berry coulis and sour cream.",
+      "kk": "Жұмсақ сырник, жидек соусы және қаймақпен."
+    }
+  },
+  {
+    "id": "6",
+    "category": "pasta",
+    "image": "https://images.unsplash.com/photo-1608756687911-aa1599ab0386?auto=format&fit=crop&w=900&q=80",
+    "price": "5 200 KZT",
+    "name": {
+      "ru": "Паста Болоньезе",
+      "en": "Classic Bolognese",
+      "kk": "Классикалық болоньезе"
+    },
+    "description": {
+      "ru": "Томленое мясное рагу, томаты и базилик.",
+      "en": "Slow-cooked meat ragout with tomato and basil.",
+      "kk": "Баяу піскен ет рагуы, қызанақ және райхан."
+    }
+  },
+  {
+    "id": "7",
+    "category": "desserts",
+    "image": "https://images.unsplash.com/photo-1565958011703-44f9829ba187?auto=format&fit=crop&w=900&q=80",
+    "price": "2 900 KZT",
+    "name": {
+      "ru": "Фисташковый эклер",
+      "en": "Pistachio Eclair",
+      "kk": "Фисташкалы эклер"
+    },
+    "description": {
+      "ru": "Воздушный эклер с фисташковым кремом.",
+      "en": "Light choux pastry filled with pistachio cream.",
+      "kk": "Фисташка кремі толтырылған жеңіл эклер."
+    }
+  },
+  {
+    "id": "8",
+    "category": "drinks",
+    "image": "https://images.unsplash.com/photo-1461023058943-07fcbe16d735?auto=format&fit=crop&w=900&q=80",
+    "price": "2 300 KZT",
+    "name": {
+      "ru": "Матча латте",
+      "en": "Matcha Latte",
+      "kk": "Матча латте"
+    },
+    "description": {
+      "ru": "Японская матча и бархатное молоко.",
+      "en": "Premium Japanese matcha blended with velvety milk.",
+      "kk": "Жоғары сапалы матча және барқыттай сүт."
+    }
+  }
+]
